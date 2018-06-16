@@ -14,7 +14,7 @@ Try to beat your High Score
 ---
 ### 1-Description
 
-This.app is a basic clikcy game using React. upon starting it requires that you click on an image to get then the images shuffles to random places. The goal is to click on all the cars once otherwise if click on twice then your score restarts.
+This.app is a basic clikcy game using ReactJS. upon starting it requires that you click on an image to get then the images shuffles to random places. The goal is to click on all the cars once otherwise if click on twice then your score restarts.
 
 I have so much fun building this app as React is such a fun tool to use. It allowed me to break my website down into small components that i was able to mount together on my main app.js already function and styled. That way your code is easier to debug, cleaner, simpler so it allows you to work more efficiently.
 
@@ -32,8 +32,7 @@ The construction of this app was mostly to showcase a little of my react skills.
 
   This project utilizes the following technologies:
   
-- React 
-  -JSX
+- ReactJS
   
 
 ---
