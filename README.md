@@ -23,6 +23,9 @@ The construction of this app was mostly to showcase a little of my react skills.
   Here are a few ScreenShots of App working!
   
   ![Full App View](src/images/ScreenShot1.png)
+  ![Good answer](src/images/ScreenShotGood.png)
+  ![Loose](src/images/ScreenShotLoose.png)
+  ![High Score](src/images/ScreenShotWin.png)
 
 ---
 ### 2-Technologies
