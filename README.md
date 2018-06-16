@@ -22,7 +22,7 @@ The construction of this app was mostly to showcase a little of my react skills.
 
   Here are a few ScreenShots of App working!
   
-  ![Full App View](src-images/ScreenShot1.png)
+  ![Full App View](src/images/ScreenShot1.png)
 
 ---
 ### 2-Technologies
