@@ -24,7 +24,7 @@ The construction of this app was mostly to showcase a little of my react skills.
   
   ![Full App View](src/images/ScreenShot1.png)
   ![Good answer](src/images/ScreenShotGood.png)
-  ![Loose](src/images/ScreenShotLoose.png)
+  ![Lose](src/images/ScreenShotLose.png)
   ![High Score](src/images/ScreenShotWin.png)
 
 ---
